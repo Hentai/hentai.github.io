@@ -1,2 +1,3 @@
 # Binance Accounts Manager
-## Documentation
+
+See more on [documentation](https://hentai.github.io/).
